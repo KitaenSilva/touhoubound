@@ -1,0 +1,9 @@
+{
+  "name" : "head",
+  "category" : "youkai",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "malehead.png"
+  }
+}

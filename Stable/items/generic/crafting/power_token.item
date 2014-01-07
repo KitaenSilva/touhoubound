@@ -1,0 +1,7 @@
+{
+  "itemName" : "power_token",
+  "rarity" : "common",
+  "inventoryIcon" : "power_token.png",
+  "description" : "This strange token emanates a curious energy. May be useful.",
+  "shortdescription" : "Power Token"
+}

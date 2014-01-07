@@ -1,0 +1,7 @@
+{
+  "itemName" : "time_orb",
+  "rarity" : "common",
+  "inventoryIcon" : "time_orb.png",
+  "description" : "An orb of time influenced by the power of eternity. May be useful.",
+  "shortdescription" : "Time Orb"
+}

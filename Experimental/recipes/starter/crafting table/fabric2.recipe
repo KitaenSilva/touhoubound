@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "plainfabric", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fabric",
+    "count" : 9
+  },
+  "groups" : [ "craftingtable", "objects", "all", "tools" ]
+}

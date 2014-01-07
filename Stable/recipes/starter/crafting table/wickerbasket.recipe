@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 20 }
+  ],
+  "output" : {
+    "item" : "wickerbasket",
+    "count" : 1
+  },
+  "groups" : [ "craftingtable", "objects", "all", "tools" ]
+}

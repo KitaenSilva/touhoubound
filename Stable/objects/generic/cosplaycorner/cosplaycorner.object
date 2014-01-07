@@ -1,0 +1,45 @@
+{
+  "objectName" : "cosplaycorner",
+  "rarity" : "Common",
+  "objectType" : "interactable",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/cosplaycorner.config",
+    "filter" : [ "cosplaycorner" ]
+  },
+  "printable" : false,
+  "description" : "You feel that you will be spending a lot of time in front of this station.",
+  "shortdescription" : "Cosplay Corner",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : "2000",
+
+  "apexDescription" : "A station with access to a lot of clothing.",
+  "avianDescription" : "A chance to display one's ability to dress.",
+  "floranDescription" : "Floran ussse table. Dresss Nicely.",
+  "glitchDescription" : "Inspired. Dressing module activated.",
+  "humanDescription" : "A place to whip up some good 'ol fashioned Touhou cosplay!",
+  "hylotlDescription" : "Good cosplay requires discipline, dedication, and many tears shed over this station.",
+
+  "inventoryIcon" : "cosplaycornericon.png",
+  "learnBlueprintsOnPickup" : [
+    "reimuchest",
+    "reimulegs",
+    "reimulegs"
+  ],
+  "orientations" : [
+    {
+      "dualImage" : "cosplaycorner.png",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+
+}

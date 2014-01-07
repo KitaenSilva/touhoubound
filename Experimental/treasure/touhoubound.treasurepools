@@ -1,0 +1,23 @@
+{
+  "touhoubound" : [
+    [1, {
+        "pool" : [
+          [0.125, [ "point_token", 1] ],
+          [0.125, [ "power_token", 1] ],
+          [0.125, [ "star_token", 1] ],
+          [0.125, [ "sakura_token", 1] ],
+          [0.125, [ "faith_orb", 1] ],
+          [0.125, [ "faith_star", 1] ],
+          [0.125, [ "sakura_petal", 1] ],
+          [0.125, [ "time_orb", 1] ]
+        ],
+        "poolRounds" : [
+          [0.05, 0],
+          [0.75, 1],
+          [0.20, 5]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : true
+      } ]
+  ]
+}

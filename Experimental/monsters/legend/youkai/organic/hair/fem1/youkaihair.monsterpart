@@ -1,0 +1,9 @@
+{
+  "name" : "hair",
+  "category" : "youkai",
+  "type" : "hair",
+
+  "frames" : {
+    "hair" : "fem1.png"
+  }
+}

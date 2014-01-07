@@ -1,0 +1,10 @@
+{
+  "name" : "touhouarms",
+  "category" : "touhou_organic",
+  "type" : "arms",
+
+  "frames" : {
+    "frontArm" : "touhoufarm.png",
+    "backArm" : "touhoubarm.png"
+  }
+}

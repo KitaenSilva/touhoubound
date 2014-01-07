@@ -1,0 +1,7 @@
+{
+  "itemName" : "point_token",
+  "rarity" : "common",
+  "inventoryIcon" : "point_token.png",
+  "description" : "This strange token has the symbol for \"Point\" written on it. May be useful.",
+  "shortdescription" : "Point Token"
+}

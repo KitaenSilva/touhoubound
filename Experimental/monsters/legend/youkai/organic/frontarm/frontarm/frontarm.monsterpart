@@ -1,0 +1,9 @@
+{
+  "name" : "frontarm",
+  "category" : "youkai",
+  "type" : "frontarm",
+
+  "frames" : {
+    "frontArm" : "frontarm.png"
+  }
+}

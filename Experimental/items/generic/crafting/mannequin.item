@@ -1,0 +1,7 @@
+{
+  "itemName" : "mannequin",
+  "rarity" : "common",
+  "inventoryIcon" : "mannequinhead.png",
+  "description" : "A full-body mannequin.",
+  "shortdescription" : "Mannequin"
+}

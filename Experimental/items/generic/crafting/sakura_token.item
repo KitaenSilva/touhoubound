@@ -1,0 +1,7 @@
+{
+  "itemName" : "sakura_token",
+  "rarity" : "common",
+  "inventoryIcon" : "sakura_token.png",
+  "description" : "A commemorative token from a delayed springtime. May be useful.",
+  "shortdescription" : "Sakura Token"
+}

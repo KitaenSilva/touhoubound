@@ -1,0 +1,7 @@
+{
+  "itemName" : "faith_orb",
+  "rarity" : "common",
+  "inventoryIcon" : "faith_orb.png",
+  "description" : "An orb of condensed faith. May be useful.",
+  "shortdescription" : "Faith Orb"
+}

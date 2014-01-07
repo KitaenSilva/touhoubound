@@ -1,0 +1,7 @@
+{
+  "itemName" : "star_token",
+  "rarity" : "common",
+  "inventoryIcon" : "star_token.png",
+  "description" : "A softly twinkling token with an embossed star shape. May be useful.",
+  "shortdescription" : "Star Token"
+}

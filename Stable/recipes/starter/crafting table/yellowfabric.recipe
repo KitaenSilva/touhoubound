@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "plainfabric", "count" : 1 },
+    { "item" : "yellowdye", "count" : 1}
+  ],
+  "output" : {
+    "item" : "yellowfabric",
+    "count" : 1
+  },
+  "groups" : [ "cosplaycorner", "craftingtable", "objects", "all", "tools" ]
+}

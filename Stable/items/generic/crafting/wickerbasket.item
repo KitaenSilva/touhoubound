@@ -1,0 +1,7 @@
+{
+  "itemName" : "wickerbasket",
+  "rarity" : "common",
+  "inventoryIcon" : "wickerbasket.png",
+  "description" : "A woven basket made of wicker.",
+  "shortdescription" : "Wicker Basket"
+}

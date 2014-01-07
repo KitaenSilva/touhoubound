@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "redfabric", "count" : 1 },
+    { "item" : "plainfabric", "count" : 1 },
+    { "item" : "power_token", "count" : 10 },
+    { "item" : "faith_orb", "count" : 5 }
+  ],
+  "output" : { "item" : "reimuchest", "count" : 1 },
+  "groups" : [ "cosplaycorner", "armor", "chest" ]
+}

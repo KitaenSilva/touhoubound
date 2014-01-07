@@ -1,0 +1,7 @@
+{
+  "itemName" : "sewingmachine",
+  "rarity" : "common",
+  "inventoryIcon" : "sewingmachine.png",
+  "description" : "An old machine that is used for sewing. Still useful to hobbyists.",
+  "shortdescription" : "Sewing Machine"
+}

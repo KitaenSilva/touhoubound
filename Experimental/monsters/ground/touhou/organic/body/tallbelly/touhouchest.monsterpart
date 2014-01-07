@@ -1,0 +1,15 @@
+{
+  "name" : "touhouchest",
+  "category" : "touhou_organic",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "touhouchest.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.3,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "input" : [
+    { "item" : "sewinglamp", "count" : 1 },
+    { "item" : "woodtable", "count" : 1 },
+    { "item" : "mannequin", "count" : 1 },
+    { "item" : "sewingmachine", "count" : 1 },
+    { "item" : "wickerbasket", "count" : 1 },
+    { "item" : "redfabric", "count" : 1 },
+    { "item" : "bluefabric", "count" : 1 },
+    { "item" : "yellowfabric", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "cosplaycorner",
+    "count" : 1
+  },
+  "groups" : [ "craftingtable", "objects", "all", "tools" ]
+}
