@@ -1,0 +1,30 @@
+Companions only appear under specific conditions and in specific locations, usually a pre-determined structure that can be as simple as an empty, grassy clearing in a forest biome, to as elaborate as a mansion, castle, or dungeon.
+
+Some Companions will be able to spawn in player-made structures if they meet the spawn parameters. ((Building a specific schematic of multiple blocks in the proper arrangement, for example. More details about this can be arranged later.))
+
+Companions will remain within a certain range of their original spawn location, and will not navigate away from it until certain conditions with that companion are met.
+
+Attempts to forcibly relocate a Companion from their original spawn parameters prior to earning the appropriate standing with that Companion will result in the Companion teleporting to the nearest solid block in or closest to the chunk their spawn location was originally generated.
+
+Companions do not despawn, though if they are derendered, they will become inactive, immobile, and will not update.
+
+Companions cannot be interacted with at all until [Approach Conditions] have been met. 
+
+Companions will flee or even become hostile if the player tries to approach Companions prior to [Approach Conditions] being earned. ((Think of this as being similar to ocelot behaviour when a player is holding anything except raw fish.))
+
+Companions who are interested in the player will cautiously approach the player when within range, and right clicking them with the relevant item(s) or lack of items will secure [Approach Conditions]. ((Think of this as being similar to ocelot behaviour when player is holding raw fish.))
+
+After [Approach Conditions] have been met, the player is free to approach the companion without them fleeing or attacking, though the player must accumulate a certain amount of time being active within their sight, and sometimes perform a specific task or set of tasks.
+
+Companions that the player has secured [Approach Conditions] with are very likely to still be shy, skittish, or not exactly friendly, though approaching them will be noticeably easier.
+
+Spending time with Companions is a primary means of earning trust with them, and the total time spent around a Companion is recorded in that Companion's statistics, as well as the number of times you have attempted to interact with the Companion.
+
+Companions with whom the player has not earned [Neutral Conditions] with are still not able to be interacted with, as interaction at this point of your relationship with a Companion must be initiated by the Companion themself and under their own power.
+
+Upon [Neutral Conditions] becoming available with a Companion, they will approach and ask the player to complete a task or quest, and the successful completion of this quest will secure [Neutral Conditions], while failure of this quest will activate a waiting period before the player can try again.
+
+Companions with whom the player has secured [Neutral Conditions] are able to be more freely interacted with and approached, as they will no longer flee or injure the player. 
+
+Right clicking a Neutral Companion with an empty hand will engage the Companion in very simple dialogue, showing their portrait and current expression as a part of the dialogue GUI. ((Expression can change between dialogue panels.))
+

@@ -1,0 +1,221 @@
+Creeper = Cupa - [Kuli'pa -> "Creeper"]
+
+Cupa will only spawn in caves.
+Cupa throws grenades as a primary attack.
+Grenades do not damage terrain, but do damage entities.
+
+Normal Spider = Ara Kumo[Abbrev. "Arachnid"]
+
+Ara can spawn pretty much anywhere...
+
+Cave Spider = Safuran Kumo
+
+Safuran will only spawn when there is a certain density of cobweb blocks in an area... so she can spawn either in mineshafts, or in stronghold libraries.
+Cave Spider Spawners are the best place to hunt for Safuran.
+
+Enderman = Andr [Ender]
+
+Andr will only spawn in the End.
+But difficult to befriend.
+Andr would sit in a very shy and dainty manner, as if she's doing her best to not offend anyone.
+((has more details already configured, but is not copied yet))
+
+Enderman Sister = Sue [End]
+
+Sue will only spawn in the End.
+But difficult to befriend.
+Adores being noticed.
+
+Ghast = Yuutsu [Melancholy]
+
+Yuutsu can be found drifting around the nether, just like any other ghast.
+She'll also attack you like normal Ghast.
+But you have to incapacitate her in order to even gain the ability to interact with her.
+And only her own fireballs can incapacitate her.
+After you befriend her, she can be incapacitated simply by taking too much damage.
+Once she's down, you interact with her a specific way, and you'll earn Yuutsu as a companion.
+Interact the wrong way, and she'll take to the Nether skies again, and resume trying to murder you.
+"NO, I WON'T GO! -fireball-"
+Yes... at full health once more.
+
+Ghast Sister = Kyodai [Sibling]
+
+Silverfish = Meiwaku [Annoyance]
+
+Meiwaku's spawn parameters would be pretty broad, simply being "stronghold".
+Has many things configured about her as well, but not yet added to this document.
+
+Young Slime =Shinseiji Neneki[Young]
+Mid Slime = Korei Neneki[Aging]
+Elder Slime = Eruda Neneki[Elder]
+
+Shinseiji, Korei, and Eruda will obviously spawn in slime chunks... but can spawn at any height, and are likely one of the mobs that would be easiest to locate.
+Being made mostly of "cooperatively sentient liquids", their forms are pretty... malleable.
+They generally stick to their humanoid shape, though.
+Hidden easter egg ability, where if you befriend all three, and then fill all three slots of your party with the Slime Sisters, you can request that they perform for you, where they will break into song and dance.
+Song used, "Bumpy-Jumpy". URL: http://www.youtube.com/watch?v=UbiR_ahjqmw
+
+Young Magmacube = Kogarana Yougan[Petite]
+Mid Magmacube = Heikin Yougan
+Elder Magmacube = Dokusai Yougan[Dictator]
+
+Magma Sisters can often be seen toddling about in and near shallow lava pools, and react to your presence much like a normal hostile mob. They'll pursue you and attempt to catch you, but they don't mean to be problematic... they're just unaware that their superheated forms are quite harmful to human flesh.
+Prove to them that you don't mind playing, you just don't want to get burned, and you'll net yourself another trio of somewhat transparent and amorphous companions.
+Who won't cause damage on touch after they become your companions.
+Kogarana can be transformed into a bow that lasts for [x] durability, and can be equipped on Kokkaku or Sukeri.
+Dokusai can envelop the player to protect them from fire and lava damage.
+
+Snow Golem = Sne / Yuki [Snow]
+
+there's a percent chance that you can find her in snowy biomes.... and an even more rare chance that she will be the outcome of crafting a snow golem.
+If she is created by crafting a snow golem, she will automatically be your companion.
+Yuki is capable of acting much like a normal snow golem, but her snowballs pack much more of a punch, and send enemies flying much further away. She can also be asked to cause it to snow, or not snow.
+Her footsteps will generate snow, just like a normal snow golems, but if she likes you enough, you can ask her "Could you please try not to track snow here?" and that will disable her snow trails.
+If you're dealing with lava, she can come in handy then, too.
+Bring her with you when spelunking near lava, and she can be asked to dump snow on lava, turning it into obsidian.
+Her footsteps will also automatically turn lava into obsidian.
+But it tires her out very quickly, so...
+
+Iron Golem = Chikara [power, force, strength, ability, capability, energy]
+
+Chikara might be found in a village, and also has an extremely rare chance to be crafted via Iron Golem method.
+Spawn via creation warrants automatic companionship.
+
+Blaze = Lin Chao
+
+Lin Chao will only spawn in Nether Fortresses.
+Lin Chao would sit in an extremely flamboyant manner, even propping her feet up if there is a fencepost with a pressure plate on it in front of the seat.
+ 
+Zombie = Yaebi
+
+Pigman = Hanbun
+
+Hanbun can be found anywhere in the nether, but she'll be easy to spot, as zombie pigmen will be in formation behind her. She's... also out to locate you.
+As soon as you step foot into the Nether, Hanbun is "dispatched" to hunt you down.
+Once she finds a way to confront you, you will be heavily interrogated, and any wrong answer will lead to your swift demise.
+And her question order will be randomised, so you can't memorize the question order.
+You have to actually answer her questions that way.
+
+Wolf = Kemono
+Dog = Chujitsuna
+
+Kemono and Chujitsuna are a pair of wolf tengu who can be found atop forested mountains.... give them bones, and their weakness will be exposed~
+
+Ocelot = Yama Neko
+Tabby = Taiga Neko
+Tux = Tsume Neko
+Siamese= Seishikina Neko
+Were = Noroi Neko
+
+The Neko Sisters will spawn in jungles... and if you find a jungle fortress, you're almost assured to find one, two, or even all of the Neko Sisters living in it's vicinity.
+like to fish
+only time that you can get close enough to talk to them and work toward earning their trust.
+You have to sneak up behind one while they're fishing, and give them a fish.
+They'll have a bucket block that will be beside them while they're fishing, and you put it in that.
+But you have to be watchful... if they see you, and you're too close, they'll attack you.
+And the Neko Sisters operate together. If one is fishing, another might be somewhere nearby... and if any of them see you while any others are nearby, they all either run away, or attack you.
+Befriending one of them will increase your success chance of befriending the others.
+If you put enough fish in an occupied Neko Sister's bucket before she spots you, she might ask you questions.
+Yama would probably be more brusque about it.
+"If you plan on just giving me fish like that, you best plan on bringing me more fish tomorrow!", doing so will earn you the favor of Yama Neko.
+Rather than flee or attack, Taiga will ask something like "Are these for me? Where did you get all of them?"
+A 'good end' to such a conversation might be something like "Would you mind taking me there someday?", and telling her that you would earns you a Neko Sister as a companion.
+Tsume would probably have to be caught while occupied with a chicken.
+Seishikina would probably have to be lured with string, or something.
+They do scare creepers away though, so if one of them is with you, you won't be bothered much by creepers.
+"Rawr! Stay away, you mean green thing!"
+Fisching could be an "Idle" function that you could ask them to do and leave them to it.
+"Could you collect some fish for me?" would result in them finding some water and going fishing. They will stay there until asked to do something else, but if you approach them while they're seated and right click on their bucket, you can retrieve any fish they might have caught... but they're not very good at fishing, so it takes a while for them to catch anyting.
+They could act as decoys?
+If a mob gets too close, or notices the player, they could run out and grab the mob's attention instead and lure them elsewhere, then attempt to lose them.
+"Nyan! Keep away! -run up and scratch mob, which does very little by way of damage, but forces it to change target-"
+If one of the Neko sisters is targeted, they will simply attempt to lure the mob outside of a certain block# radius. Once the mob is out of that radius, they then switch from "lure away" to "flee".
+Once they are no longer being targeted, they will try to path back to the player's side.
+Tsume would probably be able to hunt / gather chickens. =D
+She could catch them by picking them up and bringing them home.
+Seishikina would probably act as a sort of butler for her primary function...
+In her GUI, you could select what sorts of materials or items she would offer to remove from your inventory when you enter a door that you ask her to tend.
+That way, when you enter that door, she will approach you and be all like "Good [time of day], [playername]. May I relieve you of your excess items?"
+If you say "yes please", she'll take all items of the sorts indicated in her GUI, and toddle off to a chest to store them for you.
+
+Chicken = ???
+Cow = ???
+M. Cow = ???
+Pig = ???
+Sheep = ???
+Enderdragon = Saiko
+Squid = Ika
+
+Others:
+
+Ossun = Dwaven Miner
+Philgraham = Dwarven Warrior
+Shin = Shaman
+Elswyr = Elven Archer
+Deis = Vampire
+Milly = Deis' Maid
+Jennson = Deis' Butler
+Hrist = Valkyrie
+Dullahan = ???
+Ueki = Dryad
+Forsmuth = Giga Knight
+Ishe = Shaman
+Kokushoku Kumo = Third spider sister
+Vizel = Witch
+
+
+GENERAL NOTES
+
+You can have companions sleep in beds.
+If a companion is in a bed, and you also retire to a bed, that companion will be restored / replenished / reenergized.
+Tired companions won't do anything, so you have to sleep for them to keep being useful.
+Once you give them a bed, they will also try to automatically path to it when they're tired.
+If they're following you, they'll tell you first.
+"I'm tired... I'll see you at home."
+Exhaustion will actually start to damage a companion if left unchecked.
+It's like their equivalent to hunger, but it only goes down when their abilities are used.
+If you right click on a companion, you'll be rewarded with a GUI that gives you loads of stuff to do and ways to interact with your companion.
+If you have a set of stairs, and you place a sign on either side of the stairs, in the shape of a chair... they will actually identify it as a place to sit, and they will actually sit in the chairs.
+Some of them might sit differently from others, as far as posture is concerned.
+You can have as many companions as you have earned friendship with stay at your home, but you can only set three at a time to "follow".
+Any companion who is in your 'party' will have their status added to your HUD.
+Some companions will be affected positively or adversely by being paired up together in your party. (Cupa and Neko Sisters won't get along very pleasantly, and Cupa's disposition meters will decline. On the other end, Andr and Sue would compliment each other nicely, and benefit from being partied together.)
+They all have several meters that indicate how they're feeling.
+_______________________________
+-name-
+Sad<----->Happy
+Upset<----->Content
+Angry<------>Calm
+Distrust<------>Trust             [portrait]
+Hate<------>Love
+Loyalty:
+Energy:
+Status:
+[                          dialogue box                 ]
+________________________________
+This can be viewed in the Companion GUI, accessed by right clicking on a companion.
+This GUI will also be where you can hold conversations with your companions.
+They will say things occasionally while in-world, and in two different ways.
+The first way will simply be in chat, and it will also appear above their head in a sort of speech bubble.
+Those can be turned on or off.
+The second way will actually initiate a dialogue sequence, that could have options for you to select.
+I /could/ also go for having dialogue be voiced.
+It'd just be little tidbits, like a greeting or something that occurs when you enter the Companion GUI.
+"Can I help you?"
+Lin Chao: "Yo~"
+"Am I needed?"
+Larger bits of dialogue would not be voiced.
+Just small little quips, and sounds.
+"Creeper!"
+"I see a creeper."
+"Uh... Creeper behind you..."
+"Sssss~ Just kidding, Hahaha~"
+"That looks dangerous..."
+"I'm scared!"
+"Ouch!"
+There would be a very large amount of dialogue and randomized blocks of text that would give life and personality to each of the characters. Having some voice and sound would be beneficial to that.
+Conversations would not be voiced.
+Warnings, tips, and things like attacks, pain, and incapacitation would all have sound.
+If I wished, I could even give each character a sort of theme.
+One that would probably only play when you first earn a companion.
+And could eventually be discovered on discs after their corresponding companion has been earned.
